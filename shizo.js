@@ -32,12 +32,12 @@ const { say } = cfonts
 const { name, author } = require(join(__dirname, './package.json')) // https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/
 //const { users, chats } = require(join(__dirname, './database.json'))
 
-say('MoonLight\nWhatsApp BOT', {
+say('𝚸𝚮𝚯𝚵𝚴𝚰𝚾\nWhatsApp BOT', {
 	font: 'chrome',
 	align: 'center',
 	gradient: ['red', 'magenta']
 })
-say(`By Yugesh Singh`, {
+say(`By PhoenixFury `, {
 	font: 'console',
 	align: 'center',
 	gradient: ['red', 'magenta']
