@@ -17,8 +17,8 @@ global.db = db
 global.copyright = process.env.COPYRIGHT || "© 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie"
 global.author = process.env.OWNER_NAME || 'Shizo The Techie'
 global.botname = process.env.BOT_NAME || 'MoonLight'
-global.oname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
-global.bname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
+global.oname = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾'
+global.bname = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾'
 
 //Extra Shortcuts
 global.smlink = process.env.SOCIAL_MEDIA_LINK || 'NA'
