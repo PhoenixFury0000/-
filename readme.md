@@ -1,8 +1,8 @@
-# 🌙 Moonlight: Your WhatsApp Bot Companion
+# 🌙 𝚸𝚮𝚯𝚵𝚴𝚰𝚾: Your WhatsApp Bot Companion
 
 **A WhatsApp Bot for the Night Owls and Early Birds**
 
-Welcome to the world of Moonlight, a third-party WhatsApp Bot designed to make your messaging experience more magical. Developed by the one and only **Shizo The Techie**, this bot is your go-to solution for automating and enhancing your WhatsApp interactions.
+Welcome to the world of 𝚸𝚮𝚯𝚵𝚴𝚰𝚾, a third-party WhatsApp Bot designed to make your messaging experience more magical. Developed by the one and only **𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie**, this bot is your go-to solution for automating and enhancing your WhatsApp interactions.
 
 **⚠️ WARNING:** This is an unofficial WhatsApp Bot. Using this bot may result in your account being banned. The developer is not responsible for any loss or damage you may incur.
 
@@ -49,7 +49,7 @@ If you use any code from this repository, please give credit to the original dev
 
 We are grateful to all the contributors who have helped make Moonlight better. Here are some of the amazing people who have contributed:
 
-- Shizo The Techie
+- 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie
 
 If you have contributed to this repository, please add your name to the list above.
 
@@ -61,7 +61,7 @@ If you find Moonlight useful, please consider buying me a coffee. Your support h
 
 ## 🌟 Thank You
 
-Thank you for choosing Moonlight. We hope you enjoy using it as much as we enjoyed creating it. If you have any questions or suggestions, please feel free to contact us. Your feedback is invaluable to us!
+Thank you for choosing 𝚸𝚮𝚯𝚵𝚴𝚰𝚾. We hope you enjoy using it as much as we enjoyed creating it. If you have any questions or suggestions, please feel free to contact us. Your feedback is invaluable to us!
 
 ---
 
