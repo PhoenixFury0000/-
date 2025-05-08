@@ -21,9 +21,8 @@ global.oname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
 global.bname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCgBAra3GQC9rW'
- 
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'NA'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/F2OYNo9TVLAHgMfFslJBNa
 //Apikeys
 global.shizokeys = 'shizo'
 
