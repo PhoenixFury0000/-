@@ -11,7 +11,7 @@ const response = await axios.get(`https://api.github.com/repos/shizothetechie/or
 if (response.status === 200) {
 const repoData = response.data;
 const formattedInfo = `
-🌕 MOONLIGHT 🎆
+🌕 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 🎆
 *A Fully Featured WhatsApp Bot Loaded with Features 🎊*
 𝖲𝖳𝖠𝖱✨ :: ${repoData.stargazers_count}
 𝖥𝖮𝖱𝖪 🍽️ :: ${repoData.forks_count}
