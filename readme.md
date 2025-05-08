@@ -12,7 +12,7 @@ Welcome to the world of 𝚸𝚮𝚯𝚵𝚴𝚰𝚾, a third-party WhatsApp Bot
 
 ### Heroku Deployment
 
-Ready to deploy Moonlight in just a few clicks? Use the button below to deploy to Heroku:
+Ready to deploy 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 in just a few clicks? Use the button below to deploy to Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shizothetechie/moonlight)
 
@@ -37,7 +37,7 @@ Replace `VIDEO_ID` with the ID of the YouTube video you want to add.
 
 ### Heroku Deployment Area
 
-Deploy Moonlight to Heroku with just one click:
+Deploy 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 to Heroku with just one click:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shizothetechie/moonlight)
 
@@ -55,7 +55,7 @@ If you have contributed to this repository, please add your name to the list abo
 
 ## ☕ Buy Me a Coffee
 
-If you find Moonlight useful, please consider buying me a coffee. Your support helps us keep the lights on and the code flowing!
+If you find 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 useful, please consider buying me a coffee. Your support helps us keep the lights on and the code flowing!
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shizodevs)
 
