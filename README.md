@@ -1,8 +1,8 @@
-# 🌙 Moonlight: Your WhatsApp Bot Companion
+# 🌙 𝚸𝚮𝚯𝚵𝚴𝚰𝚾: Your WhatsApp Bot Companion
 
 **A WhatsApp Bot for the Night Owls and Early Birds**
 
-Welcome to the world of Moonlight, a third-party WhatsApp Bot designed to make your messaging experience more magical. Developed by the one and only **Shizo The Techie**, this bot is your go-to solution for automating and enhancing your WhatsApp interactions.
+Welcome to the world of 𝚸𝚮𝚯𝚵𝚴𝚰𝚾, a third-party WhatsApp Bot designed to make your messaging experience more magical. Developed by the one and only **𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie**, this bot is your go-to solution for automating and enhancing your WhatsApp interactions.
 
 **⚠️ WARNING:** This is an unofficial WhatsApp Bot. Using this bot may result in your account being banned. The developer is not responsible for any loss or damage you may incur.
 
@@ -29,7 +29,7 @@ Show your support by forking and starring this repository!
 
 ### YouTube Video
 
-Watch this video to see Moonlight in action and learn how to deploy it:
+Watch this video to see 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 in action and learn how to deploy it:
 
 [![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
@@ -37,7 +37,7 @@ Available Soon...
 
 ### Heroku Deployment Area
 
-Deploy Moonlight to Heroku with just one click:
+Deploy 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 to Heroku with just one click:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shizothetechie/moonlight)
 
