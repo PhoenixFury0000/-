@@ -22,7 +22,7 @@ global.bname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
 
 //Extra Shortcuts
 global.smlink = process.env.SOCIAL_MEDIA_LINK || 'NA'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/F2OYNo9TVLAHgMfFslJBNa'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/FpJ4aiTVkyHHtqTIR960xX'
 //Apikeys
 global.shizokeys = 'shizo'
 
