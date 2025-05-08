@@ -7,8 +7,8 @@ import db from './lib/database.js'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919172389527', process.env.OWNER_NAME || 'Shizo Devs 🫠', true],
-  ['917823819907', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '917973456275', process.env.OWNER_NAME || '𝚸𝚮𝚯𝚵𝚴𝚰𝚾 Devs 🫠', true],
+  ['917973456275', '𝚸𝚮𝚯𝚵𝚴𝚰𝚾 ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
@@ -17,8 +17,8 @@ global.db = db
 global.copyright = process.env.COPYRIGHT || "© Shizo The Techie"
 global.author = process.env.OWNER_NAME || 'Shizo The Techie'
 global.botname = process.env.BOT_NAME || 'MoonLight'
-global.oname = author
-global.bname = botname
+global.oname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
+global.bname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
 
 //Extra Shortcuts
 global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
@@ -28,12 +28,12 @@ global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCg
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || 'Moonlight 🌕'
-global.stkpack = process.env.BOT_NAME || 'Moonlight 🌕'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.packname = process.env.BOT_NAME || '𝚸𝚮𝚯𝚵𝚴𝚰𝚾 🌕'
+global.stkpack = process.env.BOT_NAME || '𝚸𝚮𝚯𝚵𝚴𝚰𝚾 🌕'
+global.stkowner = process.env.OWNER_NAME || '© 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by Moonlight'
+global.maker = process.env.MAKER || 'Made with ❤️ by 𝚸𝚮𝚯𝚵𝚴𝚰𝚾'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
@@ -59,9 +59,9 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917823819907','917823819907']
-global.prems = ['917823819907','917823819907']
-global.allowed = ['917823819907','917823819907']
+global.mods = ['917973456275','919902946999']
+global.prems = ['917973456275']
+global.allowed = ['917973456275']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
