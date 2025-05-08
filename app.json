@@ -1,11 +1,11 @@
 {
-  "name": "Moonlight",
+  "name": "𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
   "description": "WhatsApp bot feather lightsX",
   "keywords": [
     "whatsapp bot",
-    "ShizoBot",
+    "𝚸𝚮𝚯𝚵𝚴𝚰𝚾Bot",
     "WaBot",
-    "moonlight",
+    "𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
     "Termux-WaBot",
     "WaBot-Base"
   ],
@@ -25,28 +25,28 @@
       "required": false,
       "value": ""
     },
-    "PREFIX": {
+    "PREFIX": { /
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
       "value": ""
     },
-     "BOT_NAME": {
+     "BOT_NAME": { 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
       "description": "Name of Your Bot",
       "required": false,
       "value": ""
     },
-"OWNER_NAME": {
+"OWNER_NAME": { PhoenixFury
       "description": "owner name of the bot or Your Name",
       "required": false,
       "value": ""
     },
-"OWNER_NUMBER": {
+"OWNER_NUMBER": { 917973456275
       "description": "Your number or bot owner number",
       "required": false,
       "value": ""
     },
-"MAKER": {
-      "description": "Maker Text that replace MADE WITH ❤️ BY OREO-BOT",
+"MAKER": { 𝚸𝚮𝚯𝚵𝚴𝚰𝚾-bot 
+      "description": "Maker Text that replace MADE WITH ❤️ BY 𝚸𝚮𝚯𝚵𝚴𝚰𝚾-BOT",
       "required": false,
       "value": ""
     },
@@ -55,7 +55,7 @@
     "required": false,
     "value": ""
 },
-  "GROUP_LINK": {
+  "GROUP_LINK": { https://chat.whatsapp.com/FpJ4aiTVkyHHtqTIR960xX
     "description": "Your WhatsApp Group Link",
     "required": false,
     "value": ""
