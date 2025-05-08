@@ -57,7 +57,7 @@ global.getQrWeb = 0
 global.renderHost = 0
 global.replitHost = 0
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //+234 702 639 6106
 
 global.mods = ['917973456275','919902946999']
 global.prems = ['917973456275']
