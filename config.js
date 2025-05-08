@@ -14,7 +14,7 @@ global.mods = []
 global.prems = []
 
 global.db = db
-global.copyright = process.env.COPYRIGHT || "© Shizo The Techie"
+global.copyright = process.env.COPYRIGHT || "© 𝚸𝚮𝚯𝚵𝚴𝚰𝚾 The Techie"
 global.author = process.env.OWNER_NAME || 'Shizo The Techie'
 global.botname = process.env.BOT_NAME || 'MoonLight'
 global.oname = 𝚸𝚮𝚯𝚵𝚴𝚰𝚾
