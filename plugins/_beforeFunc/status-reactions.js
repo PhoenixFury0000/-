@@ -1,6 +1,6 @@
 export async function before(message, { conn }) {
   const shizonfig = {
-    autoReact: "🌕",
+    autoReact: "😎",
   };
 
   try {
